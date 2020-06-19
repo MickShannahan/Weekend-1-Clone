@@ -1,0 +1,7 @@
+.bg-header{
+  background-image: url(https://ak.picdn.net/shutterstock/videos/1036596767/thumb/1.jpg);
+  background-size: cover;
+  background-position-x: left;
+  background-position-y: bottom;
+  min-height: 55vh;
+}
